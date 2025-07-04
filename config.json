@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "botName": "YU MI KA",
+  "botName": "PBOT-SHADHIN",
   "PREFIX": "/",
-  "ADMINBOT": ["100075122837809"],
+  "ADMINBOT": ["100051192304966"],
   "APPSTATEPATH": "appstate.json",
   "FCAOption": {
     "selfListen": false,
