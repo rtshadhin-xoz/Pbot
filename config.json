@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "botName": "YU MI KA",
+  "PREFIX": "/",
+  "ADMINBOT": ["100075122837809"],
+  "APPSTATEPATH": "appstate.json",
+  "FCAOption": {
+    "selfListen": false,
+    "listenEvents": true
+  }
+}
